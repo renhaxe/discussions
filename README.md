@@ -24,3 +24,7 @@ This is where our Discussion's page is being hosted, and in the future we might 
 ## When comments are added to the doc site, will this be gone?
 
 No, we plan on to keep on using this even for the documentation website.
+
+## Where is the actual Ren'Hx Source Code?
+
+You can find the official Ren'Hx source code [Here!](https://github.com/renhaxe/renhx)
